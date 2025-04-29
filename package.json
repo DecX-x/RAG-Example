@@ -1,0 +1,14 @@
+{
+	"type": "module",
+	"dependencies": {
+		"@langchain/community": "^0.3.41",
+		"@langchain/core": "^0.3.49",
+		"@langchain/langgraph": "^0.2.67",
+		"@langchain/mongodb": "^0.1.0",
+		"@langchain/openai": "^0.5.7",
+		"@langchain/textsplitters": "^0.1.0",
+		"cheerio": "^1.0.0",
+		"dotenv": "^16.5.0",
+		"langchain": "^0.3.24"
+	}
+}
