@@ -3,4 +3,4 @@ import embeddings from "./embedding";
 
 const vectorStore = new MemoryVectorStore(embeddings);
 
-export { vectorStore };
+export default vectorStore;

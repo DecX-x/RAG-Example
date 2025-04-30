@@ -6,7 +6,7 @@ import { pull } from "langchain/hub";
 import { Annotation, StateGraph } from "@langchain/langgraph";
 import { RecursiveCharacterTextSplitter } from "@langchain/textsplitters";
 import llm from "./llm";
-import { vectorStore } from "./vectordb";
+import vectorStore from "./vectordb";
 
 
 // Load and chunk contents of blog
